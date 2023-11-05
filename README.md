@@ -1,3 +1,3 @@
-# Piyush Sharma
-# R21EF025
-# ML_Assignment
+Piyush Sharma
+R21EF025
+ML_Assignment
